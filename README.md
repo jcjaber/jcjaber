@@ -1,10 +1,11 @@
 ### Olá!!! Eu sou o José Cássio Jaber ☺️
 
-- 🔭 Atualmente estou trabalhando como FullStack
+- 🔭 Atualmente estou trabalhando como Full Stack.
 - 🌱 Estou cursando Web Development na Awari e Engenharia de Software na Ampli
 - 👯 Espero colaborar com toda a comunidade e aprender também 😁
+- 🎸 Sou violonista 7 cordas e adoro tocar chorinho e samba
+- 🎮 Amo games de RPG e estratégia
 - 😄 Pronouns: ele/dele
-- ⚡ Pequena curiosidade: Sou violonista 7 cordas e adoro tocar chorinho e samba.
 
 <div align="center">
   <a href="https://github.com/jcjaber">
@@ -19,6 +20,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Sqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
  
 ##
