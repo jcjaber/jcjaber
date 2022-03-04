@@ -1,11 +1,11 @@
-### Olá!!! Eu sou o José Cássio Jaber ☺️
+### Hello World! You can call me Jaber ☺️
 
-- 🔭 Atualmente estou trabalhando como Full Stack.
-- 🌱 Estou cursando Web Development na Awari e Engenharia de Software na Ampli
-- 👯 Espero colaborar com toda a comunidade e aprender também 😁
-- 🎸 Sou violonista 7 cordas e adoro tocar chorinho e samba
-- 🎮 Amo games de RPG e estratégia
-- 😄 Pronouns: ele/dele
+- 🔭 I'm a software engineer / full stack web developer;
+- 🌱 Currently graduating in Sotware Enginner and coursing Web Development at Awari;
+- 👯 I hope to collaborate and learn a lot from the community 😁; 
+- 🎸 I'm a seven strings guitar musician passionate about Brazilian music;
+- 🎮 I love RPG and Strategy games too;
+- 😄 Pronouns: he/him;
 
 <div align="center">
   <a href="https://github.com/jcjaber">
